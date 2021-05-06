@@ -40,8 +40,9 @@ namespace DiagonalDifference
         }
         static void Main(string[] args)
         {
+            Console.Write("Rows - Columns : ");
             int n = Convert.ToInt32(Console.ReadLine().Trim());
-
+            Console.WriteLine("****************");
             List<List<int>> arr = new List<List<int>>();
 
             for (int i = 0; i < n; i++)
