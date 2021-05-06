@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9PvNCX+GNt88qTL/5rr8rfDHiavhvfY8Fs+o/9iVx9EptooaEFdyMpmPQM6VRr2pRYRMFdAhSC/v+qH23q4ASg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YAVUZ İMER\\Desktop\\DiagonalDifference\\DiagonalDifference\\DiagonalDifference.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YAVUZ İMER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

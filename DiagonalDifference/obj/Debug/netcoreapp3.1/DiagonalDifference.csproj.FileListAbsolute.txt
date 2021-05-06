@@ -1,0 +1,13 @@
+C:\Users\YAVUZ İMER\Desktop\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.exe
+C:\Users\YAVUZ İMER\Desktop\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.deps.json
+C:\Users\YAVUZ İMER\Desktop\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.runtimeconfig.json
+C:\Users\YAVUZ İMER\Desktop\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.runtimeconfig.dev.json
+C:\Users\YAVUZ İMER\Desktop\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.dll
+C:\Users\YAVUZ İMER\Desktop\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.pdb
+C:\Users\YAVUZ İMER\Desktop\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.csprojAssemblyReference.cache
+C:\Users\YAVUZ İMER\Desktop\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\YAVUZ İMER\Desktop\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.AssemblyInfo.cs
+C:\Users\YAVUZ İMER\Desktop\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\YAVUZ İMER\Desktop\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.dll
+C:\Users\YAVUZ İMER\Desktop\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.pdb
+C:\Users\YAVUZ İMER\Desktop\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.genruntimeconfig.cache
